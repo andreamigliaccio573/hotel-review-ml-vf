@@ -1,1 +1,11 @@
 text,department,sentiment
+camera pulita,Housekeeping,pos
+camera sporca,Housekeeping,neg
+check-in veloce,Reception,pos
+check-in lento,Reception,neg
+colazione ottima,F&B,pos
+colazione scarsa,F&B,neg
+staff gentile,Reception,pos
+personale scortese,Reception,neg
+buffet abbondante,F&B,pos
+cibo freddo,F&B,neg
